@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi :)<br>I am Ali<br>I have been working in the field of internet and front for about 2 years .<br>Has a master's degree in microbiology from Tabriz University.  ¯\_(ツ)_/¯  <br>Proficient in Front-End Developer, Tailwindcss, npm, React.js, Node.js.<br>I recently changed my career to focus on front-end development at the React.js library. ;)
+Hi :)<br>I am Ali<br>I have been learning in the field of internet and front for about 1 year.<br>I have a bachelor's degree in microbiology from Tabriz University (I know you are saying to yourself why two different fields but there is interest) ¯\_(ツ)_/¯  <br>Fully proficient in JavaScript, React.js, Tailwindcss, Next.js, npm and in the near future I will change my work focus to React.js. ;)
 
 
 ## 🌐 Socials:
