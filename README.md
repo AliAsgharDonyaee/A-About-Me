@@ -28,11 +28,23 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <h1 align="center">hey there 👋</h1>
 
 ###
 
+<p align="left"></p>
+
+###
+
 <h3 align="left">👩‍💻 About Me<br><br>- I am Ali, an energetic front-end  developer boy😁<br><br>- I have a bachelor's degree in microbiology from Tabriz University (I know you are saying to yourself why two different fields but there is interest) 🤷‍♂️😀<br>- Nothing else, I came to say that i have Fully proficient in JavaScript, React.js, Tailwindcss, Next.js, npm and in the near future I will change my work focus to React.js.😊</h3>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -70,6 +82,10 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <h3 align="center">🔥 My Stats</h3>
 
 ###
@@ -79,6 +95,10 @@
   <img src="https://streak-stats.demolab.com?user=AliAsgharDonyaee&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=AliAsgharDonyaee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
 </div>
+
+###
+
+<p align="left"></p>
 
 ###
 
