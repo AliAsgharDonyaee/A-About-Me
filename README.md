@@ -32,15 +32,11 @@
 
 ###
 
-<h2 align="left">👩‍💻 About Me</h2>
+<h3 align="left">👩‍💻 About Me<br><br>- I am Ali, an energetic front-end  developer boy😁<br><br>- I have a bachelor's degree in microbiology from Tabriz University (I know you are saying to yourself why two different fields but there is interest) 🤷‍♂️😀<br>- Nothing else, I came to say that i have Fully proficient in JavaScript, React.js, Tailwindcss, Next.js, npm and in the near future I will change my work focus to React.js.😊</h3>
 
 ###
 
-<h4 align="left">I am Ali, an energetic front-end boy😁<br><br>- I have a bachelor's degree in microbiology from Tabriz University (I know you are saying to yourself why two different fields but there is interest) 🤷‍♂️😀<br>- Nothing else, I came to say that i have Fully proficient in JavaScript, React.js, Tailwindcss, Next.js, npm and in the near future I will change my work focus to React.js.😊</h4>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -74,7 +70,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥 My Stats</h3>
 
 ###
 
